@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSeccureStudent", "ApiSeccureStudent\ApiSeccureStudent.csproj", "{71EB0469-C66F-41BC-BA78-A715E05E5ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B1E6D8-460D-4BBE-8748-D0604FB82E0D}
+	EndGlobalSection
+EndGlobal
