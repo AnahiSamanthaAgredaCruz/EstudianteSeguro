@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSeccureStudent", "ApiSeccureStudent\ApiSeccureStudent.csproj", "{71EB0469-C66F-41BC-BA78-A715E05E5ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admStudentSecurity", "admStudentSecurity\admStudentSecurity.csproj", "{0C9622F2-161A-41F6-BCCC-53568FF59D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admStudentSecurity.Tests", "admStudentSecurity.Tests\admStudentSecurity.Tests.csproj", "{75279078-78C0-4EF8-83BC-F2170C58DE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtEstudianteSeguro.TestProject1", "UtEstudianteSeguro.TestProject1\UtEstudianteSeguro.TestProject1.csproj", "{821F867E-B62F-408A-9C42-AEC51F7CA0CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71EB0469-C66F-41BC-BA78-A715E05E5ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9622F2-161A-41F6-BCCC-53568FF59D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9622F2-161A-41F6-BCCC-53568FF59D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9622F2-161A-41F6-BCCC-53568FF59D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9622F2-161A-41F6-BCCC-53568FF59D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75279078-78C0-4EF8-83BC-F2170C58DE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75279078-78C0-4EF8-83BC-F2170C58DE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75279078-78C0-4EF8-83BC-F2170C58DE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75279078-78C0-4EF8-83BC-F2170C58DE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821F867E-B62F-408A-9C42-AEC51F7CA0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821F867E-B62F-408A-9C42-AEC51F7CA0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821F867E-B62F-408A-9C42-AEC51F7CA0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821F867E-B62F-408A-9C42-AEC51F7CA0CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
